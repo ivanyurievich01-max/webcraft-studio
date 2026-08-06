@@ -1,8 +1,5 @@
 User-Agent: *
 Allow: /
-Disallow: /api/
-Disallow: /privacy
-Disallow: /consent
+Disallow: /thanks/
 
-Host: https://webcraft.studio
-Sitemap: https://webcraft.studio/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
