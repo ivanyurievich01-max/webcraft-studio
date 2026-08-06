@@ -1,5 +1,4 @@
-User-Agent: *
+User-agent: *
 Allow: /
-Disallow: /thanks/
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://ivanyurievich01-max.github.io/webcraft-studio/sitemap.xml
